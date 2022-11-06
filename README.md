@@ -264,7 +264,7 @@ Wywołuję interesujący mnie exploit i w opcjach ustawiam wymagane parametry. N
 
 Po dostaniu się na maszynę tworzę nowy katalog na pulpicie.
 
-![alt text](/screenshots/6_3.PNG)
+![alt text](/screenshots/6_3.png)
 
 # **Zadanie 7. *MITM przez ARP poisoning***
 
