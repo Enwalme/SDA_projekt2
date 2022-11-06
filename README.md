@@ -35,7 +35,7 @@ Użyłam **Hashcat** do złamania haseł metodą **brute-force**
 
 Wykorzystałam **Hash-identifier** do określenia algorytmu hashującego.
 
-![alt text](/screenshots/1_2.png)
+![alt text](/screenshots/1_2.PNG)
 
 Użyłam **Hashcat** do złamania haseł metodą **brute-force**
 
