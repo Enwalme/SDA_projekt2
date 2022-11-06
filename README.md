@@ -17,7 +17,7 @@ Wykorzystałam **Hash-identifier** do określenia algorytmu hashującego.
 
 Użyłam **Hashcat** do złamania haseł metodą **brute-force**
 
-![alt text](/screenshots/1_1_1.png)
+![alt text](/screenshots/1_1_1.PNG)
 
 ***Złamane hasła***
 1. 81dc9bdb52d04dc20036dbd8313ed055 : **1234**
@@ -39,7 +39,7 @@ Wykorzystałam **Hash-identifier** do określenia algorytmu hashującego.
 
 Użyłam **Hashcat** do złamania haseł metodą **brute-force**
 
-![alt text](/screenshots/1_2_1.png)
+![alt text](/screenshots/1_2_1.PNG)
 
 ***Złamane hasła***
 1. 9e66d646cfb6c84d06a42ee1975ffaae90352bd016da18f51721e2042d9067dcb120accc574105b43139b6c9c887dda8202eff20cc4b98bad7b3be1e471b3aa5 : **sda**
@@ -225,15 +225,15 @@ Dane logowania do SDA: uranus/butterfly, root/666
 
 Korzystając z wcześniej pozyskanego adresu ip łączę się za pomocą ftp.
 
-![alt text](/screenshots/5_1.png)
+![alt text](/screenshots/5_1.PNG)
 
 Przesyłam utworzony wcześniej plik
 
-![alt text](/screenshots/5_2.png)
+![alt text](/screenshots/5_2.PNG)
 
 oraz pobieram na swoją maszynę dwa utworzone wcześniej pliki.
 
-![alt text](/screenshots/5_3.png)
+![alt text](/screenshots/5_3.PNG)
 
 Poprzez nałożenie w Wireshark filtru **ftp-data** zawężam pole poszukiwań do rekordów, w których jestem w stanie odczytać zawartość przesłanych plików.
 
